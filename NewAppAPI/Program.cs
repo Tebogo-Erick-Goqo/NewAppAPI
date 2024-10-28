@@ -6,3 +6,6 @@ var todos = new List<Todo>();
 app.Run();
 
 public record Todo(int id, string Name, DateTime DueDate, bool isCompleted)
+{
+    
+}

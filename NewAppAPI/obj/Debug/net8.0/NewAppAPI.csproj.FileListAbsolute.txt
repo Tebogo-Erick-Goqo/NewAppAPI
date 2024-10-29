@@ -23,3 +23,4 @@ C:\Users\Admin\Documents\Dev\C# dev\NewAppAPI\NewAppAPI\obj\Debug\net8.0\refint\
 C:\Users\Admin\Documents\Dev\C# dev\NewAppAPI\NewAppAPI\obj\Debug\net8.0\NewAppAPI.pdb
 C:\Users\Admin\Documents\Dev\C# dev\NewAppAPI\NewAppAPI\obj\Debug\net8.0\NewAppAPI.genruntimeconfig.cache
 C:\Users\Admin\Documents\Dev\C# dev\NewAppAPI\NewAppAPI\obj\Debug\net8.0\ref\NewAppAPI.dll
+C:\Users\Admin\Documents\Dev\C# dev\NewAppAPI\NewAppAPI\obj\Debug\net8.0\NewAppAPI.sourcelink.json

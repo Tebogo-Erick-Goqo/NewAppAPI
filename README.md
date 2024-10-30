@@ -1,4 +1,4 @@
-Hi, this is a C# Web API and ASP.NET Core using visual studio code.
+Hi, this is a C# Web API and ASP.NET Core App using visual studio code.
 What is covered :
 1. ASP.NET Core hosting model and application customization
 2. Endpoint routing and minimal APIs
